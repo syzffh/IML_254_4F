@@ -1,0 +1,60 @@
+body{
+background-color: #a52a2a;
+}
+
+header {
+            width: 100%;
+            overflow: hidden; /* Ensures any overflowing content is hidden */
+        }
+
+        header img {
+            width: 100%;
+            height: auto; /* Maintains the aspect ratio */
+        }
+
+
+.topnav {
+  background-color: #af002a;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #cb4154;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #cb4154;
+  color: white;
+}
+img {
+            width: 150px; /* Standardize the width */
+            height: auto; /* Maintain aspect ratio */
+            margin-right: 20px; /* Space between image and text */
+        }
+table {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        td {
+            vertical-align: top;
+        }
+ .text {
+            font-family: 'Book Antiqua', serif;
+            font-size: 18px;
+            color: white;
+        }
+    </style>
+    <title>Image and Text</title>
